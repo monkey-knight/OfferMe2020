@@ -10,7 +10,14 @@
 
 - Redis 简介
 
+## Java
+
+### java 入门
+
+- IO
+  - [初识 IO 流](./java/introduction/IO/01.md)。视频资料：https://pan.baidu.com/s/1gLE9aQpd1hTReErlnJO-qg，提取码：233c。
+  - 
+
 ## C、C++
 
 - [struct 大小的计算](./c_c++_0001.md)
-

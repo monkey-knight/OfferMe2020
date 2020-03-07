@@ -16,7 +16,7 @@
 
 - IO
   - [初识 IO 流](./java/introduction/IO/01.md)。视频资料：https://pan.baidu.com/s/1gLE9aQpd1hTReErlnJO-qg，提取码：233c。
-  - 
+  - [FileInputStream, FileOutputStream](./java/introduction/IO/02.md)。视频资料：链接：https://pan.baidu.com/s/1-EMere1aEVPk6WQv_Q3Vxg，提取码：qc3x 。
 
 ## C、C++
 
